@@ -322,6 +322,14 @@ input[type=button] {
   flex-flow: row wrap;
 }
 
+.features i {
+	font-size: 3.75em;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .features p {
   text-align: center;
   margin: 0;
@@ -413,6 +421,9 @@ input[type=button] {
 
 .faq-content {
   margin-bottom: 50px;
+}
+
+.faq-content h4 {
   line-height: 1.333;
 }
 
@@ -707,8 +718,8 @@ FAQ Page
 
 .faq h4,
 .faq p {
-  font-size: 1.125em;
-  line-height: 1;
+  font-size: .875em;
+  line-height: 1.125;
 }
 
 }
@@ -742,7 +753,7 @@ p {
 /* Hero */
 .hero-area h1 {
   font-size: 3.75em;
-  width: 60%;
+  width: 80%;
 }
 
 /* Aside */
