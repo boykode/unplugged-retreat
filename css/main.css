@@ -615,7 +615,7 @@ aside .content-wrapper .form {
 }
 
 .features .features-item-description {
-  width: 62%;
+  width: 68%;
 }
 
 /* Reviews */
@@ -735,7 +735,7 @@ FAQ Page
 .faq h4,
 .faq p {
   font-size: .875em;
-  line-height: 1.125;
+  line-height: 1.13;
 }
 
 }
@@ -857,6 +857,10 @@ FAQ Page
 .faq h4, .faq p {
   font-size: 1.125em;
   line-height: 1;
+}
+
+.faq-content p{
+  line-height: 1.25;
 }
 
 }
