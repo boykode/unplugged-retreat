@@ -192,12 +192,14 @@ header nav {
   font-size: 1.125;
   font-weight: 700;
   text-transform: uppercase;
+  width: 200px;
 }
 
 header nav ul {
   display: flex;
   justify-content: space-around;
   width: 100%;
+  padding-right: 35px;
 }
 
 header nav ul li {
@@ -771,6 +773,7 @@ p {
 .hero-area h1 {
   font-size: 3.75em;
   width: 80%;
+  height: 598px;
 }
 
 /* Aside */
